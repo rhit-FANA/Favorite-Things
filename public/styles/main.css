@@ -1,0 +1,75 @@
+body{
+    background: #c2c2c2;
+}
+.page-container{
+    margin-top: 25px;
+}
+.button-group{
+    padding: vw;
+    text-align: center;
+    border: gray solid 2px;
+}
+.button-group > button{
+    font-size: 1.5em;
+    margin: 10px;
+    padding:10px;
+    width: 100px;
+    background-color: maroon;
+}
+.navbar{
+    background-color: maroon;
+}
+#counterText{
+    color: black;
+    font-family: arial;
+    font-size: 4em;
+    text-align: center;
+}
+#favoriteNumberText{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: bold;
+    text-align: left;
+
+    font-weight: bold;
+    padding: 10px;
+    margin:10px;
+}
+#favoriteColorText{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: bold;
+    text-align: left;
+    font-weight: bold;
+    padding: 10px;
+    margin:10px;
+}
+#favoriteColorSquare{
+    background-color: #800000;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right:auto;
+    display:block;
+    line-height: 100px;
+    height:100px;
+    width:200px;
+    font-size: 20px;
+    color:white;
+}
+#blueButton{
+    background-color: blue;
+    width: 110px;
+}
+#greenButton{
+    background-color: green;
+    width: 110px;
+}
+#redButton{
+    background-color: red;
+    width: 110px;
+}
+#purpleButton{
+    background-color: purple;
+    width: 110px;
+}
